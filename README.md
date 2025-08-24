@@ -20,7 +20,15 @@ It emphasizes low-cost, effective pediatric orthopedic care using a simplified t
 ## References
 - [Wikiversity Page: Rajatsubhra's Innovative Management of Congenital CTEV](https://en.wikiversity.org/wiki/Rajatsubhra%27s_Innovative_Management_of_Congenital_CTEV)  
 - [Child Health Care Arambag (CHCA)](https://www.sridoctor.com/child-health-care.php)  
-- [Sri Yoga Center Trust (SYCT)](https://www.sridoctor.com/about.php)  
+- [Sri Yoga Center Trust (SYCT)](https://www.sridoctor.com/about.php)
+- ## References
+
+- **ResearchGate Publication – July 2021**  
+  *INNOVATIVE MANAGEMENT OF CTEV* by Dr. Rajatsubhra Mukhopadhyay. Describes a home-based, low-cost taping technique using cotton and cellotape for flexible CTEV. Archived on ResearchGate.
+
+- **ResearchGate Paper – July 2025**  
+  *An Innovative Method for Home-Based Correction of Flexible CTEV in Newborns Using Cotton and Cellotape: A Visual Case Documentation*. This updated version includes visual case stages and refinements.  
+  Licensed under **CC BY 4.0**.
 
 ---
 © 2025 Dr. Rajatsubhra Mukhopadhyay
