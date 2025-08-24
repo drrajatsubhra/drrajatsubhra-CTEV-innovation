@@ -17,18 +17,25 @@ It emphasizes low-cost, effective pediatric orthopedic care using a simplified t
 - Founder, Child Health Care Arambag (CHCA)  
 - President (POA), Sri Yoga Center Trust – Kunarpur (SYCT)  
 
-## References
-- [Wikiversity Page: Rajatsubhra's Innovative Management of Congenital CTEV](https://en.wikiversity.org/wiki/Rajatsubhra%27s_Innovative_Management_of_Congenital_CTEV)  
-- [Child Health Care Arambag (CHCA)](https://www.sridoctor.com/child-health-care.php)  
-- [Sri Yoga Center Trust (SYCT)](https://www.sridoctor.com/about.php)
-- ## References
+## References  
 
+### Institutional  
+- [Child Health Care Arambag (CHCA)](https://www.sridoctor.com/child-health-care.php)  
+- [Sri Yoga Center Trust (SYCT)](https://www.sridoctor.com/about.php)  
+
+### Wikiversity Pages  
+- [Wikiversity: Rajatsubhra’s Innovative Management of Congenital CTEV](https://en.wikiversity.org/wiki/Rajatsubhra%27s_Innovative_Management_of_Congenital_CTEV)  
+- [Wikiversity: ODISTR – On Demand Intranasal Steroid Therapy of Rajatsubhra](https://en.wikiversity.org/wiki/ODISTR)  
+- [Wikiversity: RMOP – Rajatsubhra’s Manual Opening of Phimosis](https://en.wikiversity.org/wiki/RMOP:_Rajatsubhra%27s_Manual_Opening_of_Phimosis)  
+- [Wikiversity: Sobon – Inner Homa in Vedic Tradition](https://en.wikiversity.org/wiki/Sobon)  
+- [Wikiversity: RMDMCC – Non-surgical Hirschsprung’s Treatment](https://en.wikiversity.org/wiki/RMDMCC)  
+
+### Research Publications  
 - **ResearchGate Publication – July 2021**  
-  *INNOVATIVE MANAGEMENT OF CTEV* by Dr. Rajatsubhra Mukhopadhyay. Describes a home-based, low-cost taping technique using cotton and cellotape for flexible CTEV. Archived on ResearchGate.
+  *Innovative Management of CTEV* by Dr. Rajatsubhra Mukhopadhyay. Describes a home-based, low-cost taping technique using cotton and cellotape for flexible CTEV.  
 
 - **ResearchGate Paper – July 2025**  
-  *An Innovative Method for Home-Based Correction of Flexible CTEV in Newborns Using Cotton and Cellotape: A Visual Case Documentation*. This updated version includes visual case stages and refinements.  
-  Licensed under **CC BY 4.0**.
+  *An Innovative Method for Home-Based Correction of Flexible CTEV in Newborns Using Cotton and Cellotape: A Visual Case Documentation*. Includes visual stages and refinements.  
 
 ---
 © 2025 Dr. Rajatsubhra Mukhopadhyay
