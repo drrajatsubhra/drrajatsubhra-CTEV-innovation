@@ -74,6 +74,7 @@ Figure 2. During management – Cotton padding with transparent cellotape immobi
 Figure 3. After management – Corrected feet in plantigrade position after 5 months.
 (Source: Wikimedia Commons, CTEV post management.jpg, CC BY 4.0, uploaded by Dr. Rajatsubhra Mukhopadhyay)
 
+For full-resolution case images, see [IMAGES.md](IMAGES.md).
 
 ---
 
