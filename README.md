@@ -1,41 +1,141 @@
-# drrajatsubhra-CTEV-innovation
-Non-surgical innovation by Dr. Rajatsubhra Mukhopadhyay for pediatric CTEV management. Linked with CHCA &amp; SYCT.
-# Rajatsubhra’s Innovative Management of Congenital CTEV
+Innovative Home-Based Management of Flexible Congenital Talipes Equino-Varus (CTEV) Using Cotton and Cellotape: A Case Documentation
 
-## Overview
-This repository documents a **non-surgical method for the management of Congenital Talipes Equino Varus (CTEV)** developed by **Dr. Rajatsubhra Mukhopadhyay**.  
-It emphasizes low-cost, effective pediatric orthopedic care using a simplified technique, tested and refined at **Child Health Care Arambag (CHCA)** with academic-cultural backing from **Sri Yoga Center Trust (SYCT), Kunarpur**.
+Author: Dr. Rajatsubhra Mukhopadhyay
+Affiliation: Child Health Care Arambag (CHCA), West Bengal, India
+ORCID: 0000-0002-3744-5336
+DOIs:
 
-## Contents
-- Clinical case study and outcomes (`docs/CTEV-full-paper.pdf`)
-- Images and diagrams (`/media`)
-- Institutional references and author credentials
+Zenodo: 10.5281/zenodo.16936726
 
-## Author
-**Dr. Rajatsubhra Mukhopadhyay**  
-- Pediatrician (MBBS, DCH, MD)  
-- Founder, Child Health Care Arambag (CHCA)  
-- President (POA), Sri Yoga Center Trust – Kunarpur (SYCT)  
+ResearchGate: 10.13140/RG.2.2.27751.97440
+Wikiversity: Rajatsubhra’s Innovative Management of Congenital CTEV
 
-## References  
 
-### Institutional  
-- [Child Health Care Arambag (CHCA)](https://www.sridoctor.com/child-health-care.php)  
-- [Sri Yoga Center Trust (SYCT)](https://www.sridoctor.com/about.php)  
-
-### Wikiversity Pages  
-- [Wikiversity: Rajatsubhra’s Innovative Management of Congenital CTEV](https://en.wikiversity.org/wiki/Rajatsubhra%27s_Innovative_Management_of_Congenital_CTEV)  
-- [Wikiversity: ODISTR – On Demand Intranasal Steroid Therapy of Rajatsubhra](https://en.wikiversity.org/wiki/ODISTR)  
-- [Wikiversity: RMOP – Rajatsubhra’s Manual Opening of Phimosis](https://en.wikiversity.org/wiki/RMOP:_Rajatsubhra%27s_Manual_Opening_of_Phimosis)  
-- [Wikiversity: Sobon – Inner Homa in Vedic Tradition](https://en.wikiversity.org/wiki/Sobon)  
-- [Wikiversity: RMDMCC – Non-surgical Hirschsprung’s Treatment](https://en.wikiversity.org/wiki/RMDMCC)  
-
-### Research Publications  
-- **ResearchGate Publication – July 2021**  
-  *Innovative Management of CTEV* by Dr. Rajatsubhra Mukhopadhyay. Describes a home-based, low-cost taping technique using cotton and cellotape for flexible CTEV.  
-
-- **ResearchGate Paper – July 2025**  
-  *An Innovative Method for Home-Based Correction of Flexible CTEV in Newborns Using Cotton and Cellotape: A Visual Case Documentation*. Includes visual stages and refinements.  
 
 ---
+
+Abstract
+
+This case study presents an innovative, non-surgical, home-based method for managing flexible Congenital Talipes Equino-Varus (CTEV) in newborns.
+The method uses cotton padding and transparent cellotape for daily adjustable immobilization, empowering parents to participate directly in correction.
+
+Correction is demonstrated in three stages:
+
+1. Before – classical CTEV deformity.
+
+
+2. During – immobilization with cotton + cellotape.
+
+
+3. After – normalized plantigrade feet after several months.
+
+
+
+Within 4–6 months, most flexible cases show significant improvement without plaster casts or surgery.
+This method is low-cost, parent-friendly, and suitable for rural or resource-limited settings, offering a practical alternative to Ponseti casting.
+
+
+---
+
+Methodology
+
+Patient: Neonate with bilateral flexible CTEV, treated at CHCA.
+
+Steps:
+
+1. Gentle foot manipulation.
+
+
+2. Cotton padding wrapped around foot/ankle.
+
+
+3. Transparent cellotape applied for immobilization.
+
+
+4. Parents instructed to reapply daily.
+
+
+5. Weekly clinical review ensured progressive correction.
+
+
+
+
+
+---
+
+Results (Case Timeline)
+
+Figure 1. Before management – Bilateral CTEV deformity.
+(Source: Wikimedia Commons, CTEV pre management.jpg, CC BY 4.0, uploaded by Dr. Rajatsubhra Mukhopadhyay)
+
+Figure 2. During management – Cotton padding with transparent cellotape immobilization.
+(Source: Wikimedia Commons, CTEV during management.jpg, CC BY 4.0, uploaded by Dr. Rajatsubhra Mukhopadhyay)
+
+Figure 3. After management – Corrected feet in plantigrade position after 5 months.
+(Source: Wikimedia Commons, CTEV post management.jpg, CC BY 4.0, uploaded by Dr. Rajatsubhra Mukhopadhyay)
+
+
+---
+
+Discussion
+
+Advantages:
+
+Avoids surgery.
+
+Minimal cost.
+
+Parent-friendly, empowering caregivers.
+
+Rural-suitable alternative to plaster casting.
+
+
+Limitations:
+
+Only effective for flexible CTEV in neonates.
+
+Resistant/rigid cases → orthopedic referral.
+
+
+Relapse prevention: Night splints + stretching post-correction.
+
+
+
+---
+
+Conclusion
+
+The cotton + cellotape innovation is a safe, effective, and low-cost approach for flexible CTEV management.
+It enables successful correction within months, without surgery or heavy casting, and is especially impactful in resource-limited rural healthcare settings.
+
+
+---
+
+Ethics and Consent
+
+Conducted at Child Health Care Arambag (CHCA).
+
+Guardian consent obtained for treatment and clinical photography.
+
+
+
+---
+
+References
+
+1. Ponseti IV. Congenital Clubfoot: Fundamentals of Treatment. Oxford Univ. Press, 1996.
+
+
+2. Dobbs MB, Gurnett CA. Update on clubfoot: etiology and treatment. Clin Orthop Relat Res. 2009;467(5):1146–1153.
+
+
+3. Mukhopadhyay R. Rajatsubhra’s Innovative Management of Congenital CTEV. Wikiversity, 2025.
+
+
+4. Mukhopadhyay R. Innovative Home-Based CTEV Correction. Zenodo. DOI: 10.5281/zenodo.16936726.
+
+
+5. Mukhopadhyay R. Innovative Home-Based CTEV Correction (Case Documentation). ResearchGate. DOI: 10.13140/RG.2.2.27751.97440.
+
+
 © 2025 Dr. Rajatsubhra Mukhopadhyay
