@@ -138,5 +138,13 @@ References
 
 5. Mukhopadhyay R. Innovative Home-Based CTEV Correction (Case Documentation). ResearchGate. DOI: 10.13140/RG.2.2.27751.97440.
 
+## 📌 Official Links & Resources  
+
+**Child Health Care Arambag (CHCA)** – *the Clinical Wing of* [**Sri Yoga Center Trust – Kunarpur (SYCT)**](https://www.wikidata.org/wiki/Q135898418)  
+
+- 🌐 **Website:** [CHCA – Official Page](https://www.sridoctor.com/child-health-care.php)  
+- 🏛 **Wikidata:** [Q135493189 – CHCA](https://www.wikidata.org/wiki/Q135493189)  
+- 📑 **Zenodo Archive:** [CHCA Research Outputs](https://zenodo.org/communities/chca)  
+- 🎥 **YouTube Channel:** [CHCA – Sridoctor Official](https://youtube.com/@sridoctor5525?si=R01iBu76ln-Xz5Wp)
 
 © 2025 Dr. Rajatsubhra Mukhopadhyay
